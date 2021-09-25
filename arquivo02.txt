@@ -1,2 +1,3 @@
 exemplo feature-f2
 correcao
+resolvendo conflito
